@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-hosted-banner-url.com/banner.png" alt="himanshu github banner" width="100%">
+  <img src="./banner.png" alt="Himanshu GitHub Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Himanshu
