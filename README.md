@@ -69,6 +69,7 @@
 - 💼 [LinkedIn](https://linkedin.com/in/himanshu-at)  
 - 🤗 [Hugging Face](https://huggingface.co/Himanshu806)  
 - 📊 [Kaggle](https://www.kaggle.com/himanshuraj56256)
+- 📝 [Medium](himaenshuu.medium.com)
 
 
 <!--
