@@ -24,19 +24,6 @@
 
 ---
 
-## 📫 Let's Connect
-
-- 🌐 [Portfolio](https://himanshuat.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/himanshu-at)  
-- 🧠 [Hugging Face](https://huggingface.co/Himanshu806)  
-- 📊 [Kaggle](https://kaggle.com/himasnhuat)
-
----
-
-## 📈 GitHub Stats
-
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaenshuu&show_icons=true&theme=radical&hide=issues&count_private=true)
-
 ## 📫 Connect with Me
 
 - 🌐 [X](https://himaenshuu.com)  
@@ -44,8 +31,11 @@
 - 🤗 [Hugging Face](https://huggingface.co/Himanshu806)  
 - 📊 [Kaggle](https://www.kaggle.com/himanshuraj56256)  
 
+---
 
+## 📈 GitHub Stats
 
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaenshuu&show_icons=true&theme=radical&hide=issues&count_private=true)
 
 <!--
 **himaenshuu/himaenshuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
