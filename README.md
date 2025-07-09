@@ -36,7 +36,6 @@
 ## 📈 GitHub Stats
 
 ![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaenshuu&show_icons=true&theme=radical&hide=issues&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himaenshuu&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 📫 Connect with Me
 
