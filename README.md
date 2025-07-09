@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-hosted-banner-url.com/banner.png" alt="himanshu github banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Himanshu
 
 🎓 B.Tech CSE | 🤖 AI Researcher | 🌐 Full-Stack Developer  
@@ -51,7 +55,8 @@
 - 🌐 [X](https://himaenshuu.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/himanshu-at)  
 - 🤗 [Hugging Face](https://huggingface.co/Himanshu806)  
-- 📊 [Kaggle](https://www.kaggle.com/himanshuraj56256)  
+- 📊 [Kaggle](https://www.kaggle.com/himanshuraj56256)
+
 
 <!--
 **himaenshuu/himaenshuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
