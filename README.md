@@ -65,9 +65,10 @@
 
 ## 📫 Connect with Me
 
-- 🌐 [X](https://himaenshuu.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/himanshu-at)  
-- 📝 [Medium](https://medium.com/@himaenshuu)
+- [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Himaenshuu)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himaenshuu)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@himaenshuu)
+
 
 
 <!--
