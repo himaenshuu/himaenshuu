@@ -47,12 +47,6 @@
 
 ## 🧠 Notable Projects
 
-- ⚡ `FastSearch` – Rust-based search engine using TF-IDF  
-- 📁 `Rusty-Explorer` – Superfast file search (Rust + Tauri)  
-- 🤖 `ScratchML-Algo` – ML algorithms from scratch in Python  
-- 🔐 `FallenAngel-CY` – AI-powered cybersecurity tools  
-- 🧪 `QM-RES` – Quantum ML experiments using Qiskit  
-
 ---
 
 ## 📈 GitHub Stats
