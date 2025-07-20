@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Himanshu GitHub Banner" width="100%">
-</p>
+
 
 # 👋 Hi, I'm Himanshu
 
