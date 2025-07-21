@@ -12,7 +12,7 @@
 - 🔬 Researcher | Consultant 
 - 👨‍💻 I build intelligent systems, developer tools & cybersecurity utilities  
 - 📚 Passionate about Generative AI, ML, Web Dev & Quantum Computing  
-- 🛠️ Skilled in Rust, Python, TypeScript, Next.js, TensorFlow, Docker, Firebase  
+- 🛠️ Skilled in , Python, TypeScript, Next.js, TensorFlow, Docker, Firebase  
 
 ---
 
