@@ -75,9 +75,17 @@
 ---
 
 ### 🔝 Top Repositories  
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=himaenshuu&limit=5&theme=tokyonight" alt="Top Contributed Repos">
+
+  <a href="https://github.com/himaenshuu/smartVault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himaenshuu&repo=smartVault&theme=radical" />
+  </a>
 </p>
+
+  🔐 <b>smartVault</b> – A secure cloud storage solution with real-time sync, encryption, and easy file sharing.  
+  <br>
+  <a href="https://github.com/himaenshuu/smartVault"><img src="https://img.shields.io/badge/View%20on%20GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
 
 ---
 
