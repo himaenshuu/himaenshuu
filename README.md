@@ -65,7 +65,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Aviral's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aviral0702&custom_title=Aviral's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Himanshu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himaenshuu&custom_title=Himanshu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
@@ -77,15 +77,12 @@
 ### 🔝 Top Repositories  
 
   <a href="https://github.com/himaenshuu/smartVault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himaenshuu&repo=smartVault&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himaenshuu&repo=smartVault&theme=radical" height="200" />
+  </a>
+  <a href="https://github.com/himaenshuu/Multi_modal_rag-application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himaenshuu&repo=Multi_modal_rag-application&theme=radical" height="200"/>
   </a>
 </p>
-
-  🔐 <b>smartVault</b> – A secure cloud storage solution with real-time sync, encryption, and easy file sharing.  
-  <br>
-  <a href="https://github.com/himaenshuu/smartVault"><img src="https://img.shields.io/badge/View%20on%20GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
 
 ---
 
