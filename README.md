@@ -64,13 +64,20 @@
 
 ### 📊 GitHub Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himaenshuu&theme=radical&show_icons=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=himaenshuu&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=himaenshuu&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" width="48%" />
+<img src="https://streak-stats.demolab.com?user=himaenshuu&theme=radical" />
 </div>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=himaenshuu&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true" width="95%"/>
 </p>
+
+</div>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
+
 
 ---
 
