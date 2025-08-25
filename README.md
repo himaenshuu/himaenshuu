@@ -52,31 +52,24 @@
 
 ---
 
-### 🏆 Achievements  
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="80" height="80">
-</p>
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himaenshuu&theme=radical&no-bg=true&no-frame=true&row=1&column=4">
-</div>
-
----
-
-### 📊 GitHub Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himaenshuu&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" width="48%" />
-<img src="https://streak-stats.demolab.com?user=himaenshuu&theme=radical" />
-</div>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himaenshuu&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true" width="95%"/>
-</p>
+ 
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himaenshuu\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 </div>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Aviral's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aviral0702&custom_title=Aviral's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
+
 
 
 ---
