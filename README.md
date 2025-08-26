@@ -94,9 +94,3 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-<br>
-<em><b>Let’s connect and build amazing things together!</b></em>
-</p>
