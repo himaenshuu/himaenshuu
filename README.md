@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 About Me  
+### 🧑‍💻 About Me  :
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 Working on **AI Agents | RAG Systems | Quantum ML**
