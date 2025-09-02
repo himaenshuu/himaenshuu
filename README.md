@@ -65,7 +65,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Himanshu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himaenu&custom_title=Himanshu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Himanshu's Graph](https://github-readme-activity-graph.vercel.app/grap?username=Himaenhuu&custom_title=Himanshu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
