@@ -1,95 +1,175 @@
-<h1 align="center">✨ Hi, I'm <span style="color:#7F3FBF;">Himanshu Raj</span> ✨</h1>
-<h3 align="center"> Mern-Stack Developer • Tech Explorer</h3>
+<h1 align="center">Himanshu Raj</h1>
+<h3 align="center">Software Engineer | AI & Full-Stack Developer | RAG Systems • Generative AI • Production Deployment</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&lines=AI+Learner+%7C+Mern+Stack+Developer;Passionate+about+ML%2C+Web+%26+Quantum+Computing;Always+learning+and+building+cool+stuff" alt="Typing SVG" />
-</p>
-
-
----
-
-### 🧑‍💻 About Me  :
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
-- 🔭 Working on **AI Agents | RAG Systems | Quantum ML**
-- 🌱 Exploring **LLM Ops, Edge AI & System Design**
-- 🤝 Open to **collaborate on AI, Web, & Security projects**
-- ✍ Writing insights on **[Medium](https://medium.com/@himaenshuu)**
-- 💬 Ask me about **Python, Next.js, TensorFlow, RAG**
-
----
-
-### 🛠 Tech Stack  
-
-
-**AI & ML**  
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) 
-![LangChain](https://img.shields.io/badge/LangChain-3D3D3D?style=for-the-badge&logo=python&logoColor=white) 
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=for-the-badge&logo=openai&logoColor=white) 
-![Gemini](https://img.shields.io/badge/Gemini-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-
-**Frontend**  
-![React](https://skillicons.dev/icons?i=react) 
-![Next.js](https://skillicons.dev/icons?i=nextjs) 
-![TypeScript](https://skillicons.dev/icons?i=ts) 
-![JavaScript](https://skillicons.dev/icons?i=js)  
-
-**Backend**  
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Firebase](https://skillicons.dev/icons?i=firebase) 
-![Python](https://skillicons.dev/icons?i=python)  
-
-**Databases**  
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-
-**DevOps & Tools**  
-![Docker](https://skillicons.dev/icons?i=docker) 
-![Git](https://skillicons.dev/icons?i=git) 
-![GitHub](https://skillicons.dev/icons?i=github) 
-![Postman](https://skillicons.dev/icons?i=postman)  
-</div>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himaenshuu\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-</div>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
-
-<h3 align="left">Activity:</h3>
-
-![Himanshu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=himaenshuu&custom_title=Himanshu%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
-
----
-
-### 🔝 Top Repositories  
-
-  <a href="https://github.com/himaenshuu/smartVault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himaenshuu&repo=smartVault&theme=radical" height="200" />
-  </a>
-  <a href="https://github.com/himaenshuu/Multi_modal_rag-application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himaenshuu&repo=Multi_modal_rag-application&theme=radical" height="200"/>
-  </a>
+Building production-ready AI systems and scalable web applications.
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+## 👨‍💻 Professional Summary
+
+Computer Science undergraduate focused on building end-to-end AI-powered and full-stack systems.  
+I design, implement, and deploy scalable applications with strong emphasis on clean architecture, modular code, and containerized environments.
+
+Core Focus Areas:
+- Retrieval-Augmented Generation (RAG)
+- Generative AI Systems
+- Scalable Backend Architectures
+- System Design & Deployment
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-<a href="https://x.com/Himaenshuu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://linkedin.com/in/himaenhuu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://medium.com/@himaenshuu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=himaenshuu&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaenshuu&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himaenshuu&hide_border=true" height="170"/>
 </p>
 
 ---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himaenshuu&bg_color=ffffff&color=000000&line=7F3FBF&point=7F3FBF&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Multi-Modal RAG Application
+**Problem:** Context-aware AI retrieval and response system across multiple document formats.  
+**Built:** End-to-end RAG pipeline with ingestion, embedding, vector search, and intelligent response orchestration.  
+**Tech:** Python, LangChain, FAISS, LLM APIs, Docker  
+**Highlights:**
+- Modular document ingestion pipeline  
+- Optimized semantic retrieval  
+- Containerized for reproducible deployment  
+- API-driven architecture  
+
+🔗 Repository: https://github.com/himaenshuu/Multi_modal_rag-application
+
+---
+
+### 🔹 SmartVault
+**Problem:** Need for secure, scalable file and document management system.  
+**Built:** Full-stack storage platform with authentication, structured APIs, and scalable database integration.  
+**Tech:** Next.js, Node.js, MongoDB, TypeScript  
+**Highlights:**
+- Secure authentication workflow  
+- Clean frontend-backend separation  
+- RESTful API design  
+- Production-ready folder architecture
+
+🔗 Repository: https://github.com/himaenshuu/smartVault
+
+---
+
+### 🔹 ShopSense – Intelligent Shopping Assistant
+**Problem:** Users require contextual insights before making online purchasing decisions.  
+**Built:** AI-powered shopping assistant integrating product APIs with recommendation logic.  
+**Tech:** TypeScript, Next.js, External APIs  
+**Highlights:**
+- Product data ingestion and transformation  
+- Contextual Q&A workflow  
+- Structured UI interaction design  
+- Email-based purchase linking
+
+🔗 Repository: https://github.com/himaenshuu/ShopSense
+
+---
+
+### 🔹 InstaLens – Instagram Profile Analytics
+**Problem:** Limited accessible analytics tools for extracting actionable social media insights.  
+**Built:** Full-stack analytics dashboard generating structured profile insights.  
+**Tech:** TypeScript, Next.js  
+**Highlights:**
+- Real-time analytics visualization  
+- Clean state management  
+- Data-driven UI components  
+- Structured metrics presentation
+
+🔗 Repository: https://github.com/himaenshuu/InstaLens
+
+---
+
+### 🔹 ETL Mongo Pipeline
+**Problem:** Raw datasets require structured transformation before analytics or ML use.  
+**Built:** Python-based ETL system to clean, transform, and load datasets into MongoDB.  
+**Tech:** Python, MongoDB  
+**Highlights:**
+- Modular transformation pipeline  
+- Scalable ingestion patterns  
+- Clean data normalization logic  
+- Analytics-ready database output
+
+🔗 Repository: https://github.com/himaenshuu/etl_mongo_pipeline
+
+---
+
+### 🔹 Amazon Product Intelligence Data Builder
+**Problem:** Unstructured ecommerce API responses are difficult to use directly for analytics or modeling.  
+**Built:** Data ingestion and transformation workflow converting API responses into structured datasets.  
+**Tech:** Python, Jupyter Notebook  
+**Highlights:**
+- Product feature extraction  
+- Data normalization and cleaning  
+- Analytics-ready structured output  
+- Foundation for recommendation systems  
+
+🔗 Repository: https://github.com/himaenshuu/Amazon-Product-Intelligence-Data-Builder
+
+---
+
+## 🛠 Technical Stack
+
+**AI & ML:** TensorFlow • LangChain • RAG • LLM APIs  
+**Backend:** Node.js • Python • REST APIs  
+**Frontend:** Next.js • React • TypeScript  
+**Databases:** MongoDB • MySQL  
+**DevOps:** Docker • Git • GitHub • Postman  
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Write modular, maintainable code  
+- Design scalable architectures  
+- Prefer reproducible, containerized environments  
+- Optimize where measurable  
+- Document clearly for collaboration  
+
+Strong engineering balances clarity, performance, and real-world usability.
+
+---
+
+## 🌐 Professional Links
+
+<p align="center">
+  <a href="https://linkedin.com/in/himaenhuu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@himaenshuu">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Himaenshuu">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Career Focus
+
+Open to:
+- Software Engineering Internships  
+- AI / ML Engineering Roles  
+- Backend & Full-Stack Development Roles  
+
+Experienced in production-style deployments and containerized AI systems.
