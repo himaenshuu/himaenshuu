@@ -5,6 +5,12 @@
 Building production-ready AI systems and scalable web applications.
 </p>
 
+<p align="center">
+<a href="https://github.com/himaenshu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/himanshu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://hub.docker.com/u/himaenshuu"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+</p>
+
 ---
 
 ## 👨‍💻 Professional Summary
@@ -22,10 +28,10 @@ Core Focus Areas:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himaenshuu&show_icons=true&theme=default&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaenshuu&layout=compact&hide_border=true" height="170"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himaenshuu&hide_border=true" height="170"/>
@@ -149,14 +155,6 @@ Strong engineering balances clarity, performance, and real-world usability.
 
 ---
 
-## 🌐 Professional Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/himaenshu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/himanshu)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/himaenshuu)
-</p>
-
----
 
 ## 🎯 Career Focus
 
