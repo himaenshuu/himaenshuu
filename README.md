@@ -3,7 +3,7 @@
 ### <p align="center">Computer Science Undergraduate | Software Engineer | AI & Full-Stack Developer</p>
 
 <p align="center">
-RAG Systems • LLM Applications • Scalable Backend Engineering • System Design • Production Deployment
+Scalable Backend Engineering • RAG Systems • LLM Applications • System Design • Production Deployment
 </p>
 
 <p align="center">
