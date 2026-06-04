@@ -16,11 +16,6 @@
   <a href="mailto:himanshuraj.csd@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
-<!-- Animated Floating Skills Sequence -->
-<p align="center">
-  <img src="./assets/floating_skills.svg" width="100%" alt="Floating Skills Sequence" />
-</p>
-
 </div>
 
 ---
@@ -124,7 +119,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 
 ### 🤖 AI, Machine Learning & LLM Systems
 <p align="center">
-  <img src="./assets/tech_ai.svg" width="100%" alt="Floating AI Stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" alt="AI Stack" />
 </p>
 <p>
   <code>LangChain</code> • <code>LlamaIndex</code> • <code>OpenAI API</code> • <code>Gemini API</code> • <code>Hugging Face</code> • <code>ChromaDB</code> • <code>FAISS</code> • <code>Ollama</code>
@@ -134,7 +129,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 
 ### ⚙️ Backend Engineering & APIs
 <p align="center">
-  <img src="./assets/tech_backend.svg" width="100%" alt="Floating Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,graphql,postman&theme=dark" alt="Backend Stack" />
 </p>
 <p>
   <code>FastAPI</code> • <code>Node.js / Express</code> • <code>Pydantic</code> • <code>RESTful APIs</code> • <code>WebSockets / SSE</code> • <code>Redis Caching</code> • <code>Celery Task Queues</code>
@@ -144,7 +139,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 
 ### 🗄️ Databases & Storage Engines
 <p align="center">
-  <img src="./assets/tech_db.svg" width="100%" alt="Floating Databases Stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases Stack" />
 </p>
 <p>
   <code>PostgreSQL</code> • <code>MongoDB</code> • <code>Redis</code> • <code>Supabase</code> • <code>Neon Serverless PG</code> • <code>Vector Stores</code>
@@ -154,7 +149,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 
 ### 💻 Core Programming Languages
 <p align="center">
-  <img src="./assets/tech_languages.svg" width="100%" alt="Floating Languages Stack" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css&theme=dark" alt="Languages" />
 </p>
 <p>
   <code>Python (AsyncIO / ML)</code> • <code>C++ (STL / Competitive Programming)</code> • <code>TypeScript</code> • <code>JavaScript (ES6+)</code> • <code>SQL</code>
@@ -164,7 +159,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 
 ### ☁️ Cloud, DevOps & Infrastructure
 <p align="center">
-  <img src="./assets/tech_devops.svg" width="100%" alt="Floating DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions,vercel&theme=dark" alt="DevOps Stack" />
 </p>
 <p>
   <code>Docker & Compose</code> • <code>AWS (EC2, S3, IAM)</code> • <code>Linux / Bash</code> • <code>CI/CD (GitHub Actions)</code> • <code>Git Workflow</code> • <code>Vercel</code>
@@ -174,7 +169,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 
 ### 🎨 Frontend & Full-Stack UI
 <p align="center">
-  <img src="./assets/tech_frontend.svg" width="100%" alt="Floating Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend Stack" />
 </p>
 <p>
   <code>Next.js (App Router)</code> • <code>React.js</code> • <code>TailwindCSS</code> • <code>Responsive UI/UX</code>
