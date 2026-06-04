@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 80" width="100%" height="80" style="overflow: hidden; background: transparent;">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <style>
+    .skill-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #ffffff;
+    }
+    .skill-sub {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 500;
+      font-size: 9.5px;
+      fill: #94a3b8;
+    }
+    .marquee-track {
+      animation: marquee 22s linear infinite;
+      will-change: transform;
+    }
+    .marquee-track:hover {
+      animation-play-state: paused;
+    }
+    @keyframes marquee {
+      0% { transform: translate3d(0px, 0, 0); }
+      100% { transform: translate3d(-1280px, 0, 0); }
+    }
+    .bob-1 { animation: floatY 3.5s ease-in-out infinite alternate; }
+    .bob-2 { animation: floatY 4s ease-in-out infinite alternate 0.7s; }
+    .bob-3 { animation: floatY 3.7s ease-in-out infinite alternate 1.4s; }
+    .bob-4 { animation: floatY 4.2s ease-in-out infinite alternate 2.1s; }
+    @keyframes floatY {
+      0% { transform: translateY(0px); }
+      100% { transform: translateY(-4px); }
+    }
+  </style>
+
+  <g class="marquee-track">
+    <!-- ==================== SET 1 (Width: 1280px) ==================== -->
+    <g transform="translate(0, 16)">
+      <!-- 1. LangChain / RAG (x = 0) -->
+      <g class="bob-1" transform="translate(0, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#10b981" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#059669"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🦜</text>
+        <text x="44" y="21" class="skill-text">LangChain</text>
+        <text x="44" y="34" class="skill-sub">RAG &amp; Vector Search</text>
+      </g>
+
+      <!-- 2. FastAPI (x = 160) -->
+      <g class="bob-2" transform="translate(160, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#009688" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#009688"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">⚡</text>
+        <text x="44" y="21" class="skill-text">FastAPI</text>
+        <text x="44" y="34" class="skill-sub">Async Microservices</text>
+      </g>
+
+      <!-- 3. Agentic LLMs (x = 320) -->
+      <g class="bob-3" transform="translate(320, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#8b5cf6" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#6d28d9"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🤖</text>
+        <text x="44" y="21" class="skill-text">Agentic LLMs</text>
+        <text x="44" y="34" class="skill-sub">OpenAI &amp; Gemini</text>
+      </g>
+
+      <!-- 4. pgvector DBs (x = 480) -->
+      <g class="bob-4" transform="translate(480, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#3b82f6" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#2563eb"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🗄️</text>
+        <text x="44" y="21" class="skill-text">pgvector / DB</text>
+        <text x="44" y="34" class="skill-sub">Semantic Retrieval</text>
+      </g>
+
+      <!-- 5. PyTorch (x = 640) -->
+      <g class="bob-1" transform="translate(640, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#f97316" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#ea580c"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🔥</text>
+        <text x="44" y="21" class="skill-text">PyTorch</text>
+        <text x="44" y="34" class="skill-sub">Deep Learning &amp; ML</text>
+      </g>
+
+      <!-- 6. Docker & AWS (x = 800) -->
+      <g class="bob-2" transform="translate(800, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#0284c7" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#0369a1"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🐳</text>
+        <text x="44" y="21" class="skill-text">Docker &amp; AWS</text>
+        <text x="44" y="34" class="skill-sub">Cloud Deployments</text>
+      </g>
+
+      <!-- 7. Redis Cache (x = 960) -->
+      <g class="bob-3" transform="translate(960, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#ef4444" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#dc2626"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">⚡</text>
+        <text x="44" y="21" class="skill-text">Redis Cache</text>
+        <text x="44" y="34" class="skill-sub">High-Throughput</text>
+      </g>
+
+      <!-- 8. Python & C++ (x = 1120) -->
+      <g class="bob-4" transform="translate(1120, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#eab308" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#ca8a04"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">💻</text>
+        <text x="44" y="21" class="skill-text">Python &amp; C++</text>
+        <text x="44" y="34" class="skill-sub">1866 LeetCode DSA</text>
+      </g>
+    </g>
+
+    <!-- ==================== SET 2 (Exact Duplicate starting at x = 1280px) ==================== -->
+    <g transform="translate(1280, 16)">
+      <!-- 1. LangChain / RAG (x = 0 -> 1280) -->
+      <g class="bob-1" transform="translate(0, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#10b981" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#059669"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🦜</text>
+        <text x="44" y="21" class="skill-text">LangChain</text>
+        <text x="44" y="34" class="skill-sub">RAG &amp; Vector Search</text>
+      </g>
+
+      <!-- 2. FastAPI (x = 160 -> 1440) -->
+      <g class="bob-2" transform="translate(160, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#009688" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#009688"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">⚡</text>
+        <text x="44" y="21" class="skill-text">FastAPI</text>
+        <text x="44" y="34" class="skill-sub">Async Microservices</text>
+      </g>
+
+      <!-- 3. Agentic LLMs (x = 320 -> 1600) -->
+      <g class="bob-3" transform="translate(320, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#8b5cf6" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#6d28d9"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🤖</text>
+        <text x="44" y="21" class="skill-text">Agentic LLMs</text>
+        <text x="44" y="34" class="skill-sub">OpenAI &amp; Gemini</text>
+      </g>
+
+      <!-- 4. pgvector DBs (x = 480 -> 1760) -->
+      <g class="bob-4" transform="translate(480, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#3b82f6" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#2563eb"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🗄️</text>
+        <text x="44" y="21" class="skill-text">pgvector / DB</text>
+        <text x="44" y="34" class="skill-sub">Semantic Retrieval</text>
+      </g>
+
+      <!-- 5. PyTorch (x = 640 -> 1920) -->
+      <g class="bob-1" transform="translate(640, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#f97316" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#ea580c"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🔥</text>
+        <text x="44" y="21" class="skill-text">PyTorch</text>
+        <text x="44" y="34" class="skill-sub">Deep Learning &amp; ML</text>
+      </g>
+
+      <!-- 6. Docker & AWS (x = 800 -> 2080) -->
+      <g class="bob-2" transform="translate(800, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#0284c7" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#0369a1"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">🐳</text>
+        <text x="44" y="21" class="skill-text">Docker &amp; AWS</text>
+        <text x="44" y="34" class="skill-sub">Cloud Deployments</text>
+      </g>
+
+      <!-- 7. Redis Cache (x = 960 -> 2240) -->
+      <g class="bob-3" transform="translate(960, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#ef4444" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#dc2626"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">⚡</text>
+        <text x="44" y="21" class="skill-text">Redis Cache</text>
+        <text x="44" y="34" class="skill-sub">High-Throughput</text>
+      </g>
+
+      <!-- 8. Python & C++ (x = 1120 -> 2400) -->
+      <g class="bob-4" transform="translate(1120, 0)" filter="url(#shadow)">
+        <rect width="140" height="44" rx="12" fill="url(#cardGrad)" stroke="#eab308" stroke-width="1.5"/>
+        <circle cx="24" cy="22" r="11" fill="#ca8a04"/>
+        <text x="24" y="26" text-anchor="middle" font-size="12">💻</text>
+        <text x="44" y="21" class="skill-text">Python &amp; C++</text>
+        <text x="44" y="34" class="skill-sub">1866 LeetCode DSA</text>
+      </g>
+    </g>
+  </g>
+</svg>
