@@ -3,7 +3,7 @@
 <img src="./assets/header.svg" width="100%" alt="Himanshu Raj Header" />
 
 <a href="https://github.com/himaenshuu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=667EEA&center=true&vCenter=true&width=650&lines=Building+Production-Ready+RAG+Architectures;Scalable+Distributed+Backend+Engineering;LLM+Orchestration+%26+Vector+Search+Pipelines;Open-Source+Contributor+(Axios%2C+Transformers%2C+Fastify);Competitive+Programmer+%7C+LeetCode+Rating+1866" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=667EEA&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+%26+Cloud+Systems+(SmartVault%2C+ShopSense);Production+RAG+%26+Vector+Search+Architectures+(Qdrant%2C+ChromaDB);Scalable+Distributed+Backends+(FastAPI%2C+Next.js%2C+Node.js%2C+Redis);Open-Source+Contributor+(Axios%2C+Transformers%2C+Fastify);Competitive+Programmer+%7C+LeetCode+Rating+1866" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science undergraduate at **IIIT Nagpur** (Specialization in **Data Science**), passionate about designing high-performance, intelligent, and scalable distributed systems. 
+I am a Computer Science undergraduate at **IIIT Nagpur** (Specialization in **Data Science**), passionate about designing high-performance, intelligent, and scalable distributed systems.
 
 My work combines solid algorithmic fundamentals with modern production engineering across **AI systems, backend architectures, vector search, and cloud deployments**:
 
@@ -42,70 +42,41 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Multi-Modal RAG Orchestrator</h3>
+      <h3>⚡ SmartVault — Intelligent Cloud Storage & AI Intelligence</h3>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL_(Neon)-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-4E86E4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NextAuth_v5-8B5CF6?style=flat-square"/>
       </p>
       <ul>
-        <li><b>Challenge:</b> Ingesting, parsing, and contextually querying heterogeneous multi-format documents (PDFs, images, tables) without token bloat.</li>
-        <li><b>Architecture:</b> Hybrid semantic search pipeline combining dense vector embeddings with BM25 sparse lexical retrieval, re-ranking, and automated query refinement via LLM agents.</li>
-        <li><b>Key Metrics:</b> Sub-250ms retrieval latency, zero hallucination guardrails, modular vector index containerization.</li>
+        <li><b>Challenge:</b> Delivering secure, direct-to-cloud multi-gigabyte file streaming without bottlenecking server memory, coupled with instant multi-modal document metadata categorization.</li>
+        <li><b>Architecture:</b> Zero-proxy client-to-S3 presigned URL upload pipeline, serverless Neon DB connection pooling via Prisma, Google Gemini automated tag extraction, and optimistic UI transitions with trash lifecycle management.</li>
+        <li><b>Key Highlights:</b> Direct S3 pre-signed ingestion, real-time AI content classification, soft-delete & 30-day automated purge engine.</li>
       </ul>
       <p align="right">
-        <a href="https://github.com/himaenshuu"><b>View Repository ➔</b></a>
+        <a href="https://github.com/himaenshuu/smartvault"><b>View Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Scalable Distributed Microservice</h3>
+      <h3>🧠 ShopSense — Next-Gen AI Shopping & Vector Intelligence</h3>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Transformers.js-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_1.5-4E86E4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Upstash_Redis-00E599?style=flat-square&logo=redis&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
       <ul>
-        <li><b>Challenge:</b> Handling bursty API traffic and compute-heavy background tasks without blocking critical path requests.</li>
-        <li><b>Architecture:</b> Asynchronous event-driven architecture featuring Redis Pub/Sub, distributed rate limiting, cache-aside strategies, and background worker queues.</li>
-        <li><b>Key Metrics:</b> 99.9% uptime under high concurrency load, 4x lower database query load with intelligent caching.</li>
+        <li><b>Challenge:</b> Executing sub-second conversational intent routing, dense vector similarity search across product catalogs, and real-time multi-dimensional trade-off comparisons.</li>
+        <li><b>Architecture:</b> Hybrid edge/server embedding pipeline using Xenova ONNX models, Qdrant vector similarity retrieval, Upstash Redis LLM response caching, and interactive Recharts radar comparison matrices.</li>
+        <li><b>Key Highlights:</b> Sub-100ms vector search latency, 5-axis comparative scoring radar, contextual conversational shopping assistant.</li>
       </ul>
       <p align="right">
-        <a href="https://github.com/himaenshuu"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Real-Time Streaming AI Interface</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <ul>
-        <li><b>Challenge:</b> Delivering seamless real-time token streaming and dynamic multi-agent interaction with fluid UI state management.</li>
-        <li><b>Architecture:</b> Next.js App Router fronted by server-sent events (SSE) and WebSockets, optimistic UI updates, and markdown/code syntax rendering.</li>
-      </ul>
-      <p align="right">
-        <a href="https://github.com/himaenshuu"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💡 Production API Integrations & CI/CD</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-      </p>
-      <ul>
-        <li><b>Challenge:</b> Building reliable third-party API adapters with strict contract validation and automated deployment.</li>
-        <li><b>Architecture:</b> Type-safe validation using Pydantic, automated CI/CD unit testing, containerized health probes, and structured telemetry.</li>
-      </ul>
-      <p align="right">
-        <a href="https://github.com/himaenshuu"><b>View Repository ➔</b></a>
+        <a href="https://github.com/himaenshuu/shopsense"><b>View Repository ➔</b></a>
       </p>
     </td>
   </tr>
@@ -118,6 +89,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 <div align="center">
 
 ### 🤖 AI, Machine Learning & LLM Systems
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" alt="AI Stack" />
 </p>
@@ -128,6 +100,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 <br/>
 
 ### ⚙️ Backend Engineering & APIs
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,graphql,postman&theme=dark" alt="Backend Stack" />
 </p>
@@ -138,6 +111,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 <br/>
 
 ### 🗄️ Databases & Storage Engines
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases Stack" />
 </p>
@@ -148,6 +122,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 <br/>
 
 ### 💻 Core Programming Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css&theme=dark" alt="Languages" />
 </p>
@@ -158,6 +133,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 <br/>
 
 ### ☁️ Cloud, DevOps & Infrastructure
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions,vercel&theme=dark" alt="DevOps Stack" />
 </p>
@@ -168,6 +144,7 @@ open_source:  900+ Contributions (Axios, Fastify, Transformers, Appsmith)
 <br/>
 
 ### 🎨 Frontend & Full-Stack UI
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend Stack" />
 </p>
